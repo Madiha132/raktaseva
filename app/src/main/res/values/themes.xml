@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RaktaSeva" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="android:windowBackground">#F7F8FC</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+
+        <item name="colorPrimary">#D90429</item>
+        <item name="colorPrimaryVariant">#D90429</item>
+        <item name="colorSecondary">#D90429</item>
+
+        <item name="android:textColorPrimary">#111111</item>
+
+    </style>
+
+</resources>
